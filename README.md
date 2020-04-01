@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hello new Henchman!
+
+Welcome to the discord server, dedicated to Michelle Sladovich.
+Love you Mom!
